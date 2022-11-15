@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Dhasrhan",
+      "lastName": "Raaj",
+      "email": "dharshand9@gmail.com",
+      "mobileNo": "7010766630",
+      "salary": "200000"
+    },
+    {
+      "id": 2,
+      "firstName": "Priya",
+      "lastName": "Dharshan",
+      "email": "priya1020@gmail.com",
+      "mobileNo": "9965510437",
+      "salary": "150000"
+    },
+    {
+      "id": 3,
+      "firstName": "Prasanna",
+      "lastName": "Venkatesh",
+      "email": "prasanna123@gmail.com",
+      "mobileNo": "9965510436",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "firstName": "rahul",
+      "lastName": "s",
+      "email": "rahuls12@gmail.com",
+      "mobileNo": "7010766630",
+      "salary": "100000"
+    },
+    {
+      "id": 5,
+      "firstName": "Dharshan",
+      "lastName": "Raaj",
+      "email": "dhars@gmail.com",
+      "mobileNo": "9965510434",
+      "salary": "12320"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Bharani Kumaran",
+      "email": "boct123@gmail.com",
+      "password": "asdf",
+      "mobile": 8825964459,
+      "id": 1
+    },
+    {
+      "fullname": "sukanth",
+      "email": "suki123@gmail.com",
+      "password": "1234",
+      "mobile": 9894396190,
+      "id": 2
+    },
+    {
+      "fullname": "Rahul",
+      "email": "rahuls12@gmail.com",
+      "password": "qwer",
+      "mobile": 7010766630,
+      "id": 3
+    },
+    {
+      "fullname": "dfs",
+      "email": "sdf@gmail.com",
+      "password": "1234",
+      "mobile": 9965510433,
+      "id": 4
+    },
+    {
+      "fullname": "dsfs",
+      "email": "dsfd@fdgdf.com",
+      "password": "dfgdfg",
+      "mobile": 12345,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
